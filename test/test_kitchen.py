@@ -1,5 +1,5 @@
 # test_kitchen.py
-from kitchen import Quantity, Converter, grams, ounces
+from src.kitchen import Quantity, Converter, grams, ounces
 
 def test_multiplication():
     flour = Quantity(200, "g")

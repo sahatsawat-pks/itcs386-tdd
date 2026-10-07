@@ -34,5 +34,5 @@ itcs386-tdd/
 │   ├── __init__.py
 │   └── test_calculator.py
 ├── .gitignore
-├── requirements.txt      # Project dependencies
 └── README.md
+└── REFLECTION.md         # Reflection (Part B)

@@ -1,6 +1,6 @@
 # test_shipping.py
 import pytest
-from shipping import shipping_fee
+from src.shipping import shipping_fee
 
 @pytest.mark.parametrize("weight, expected", [
     (1, 40),

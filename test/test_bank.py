@@ -1,6 +1,6 @@
 # test_bank.py
 import pytest
-from bank import BankAccount, InsufficientFunds
+from src.bank import BankAccount, InsufficientFunds
 
 @pytest.fixture
 def account():
